@@ -7,3 +7,4 @@
 5. `base:develop`で`compare:自分がプッシュしたブランチ`を選択
 6. タイトルや詳細は自由に入力して OK
 7. 「Create Pull Request」でプルリクエストの作成完了
+8. develop ブランチに戻り雲マークをクリックし手順 1 から再スタート
